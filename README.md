@@ -13,6 +13,10 @@ It displays the specifications of a car when user clicks on any segment.
 Specifications include "carname,mileage,engine,rating".
 
 It shows the top three cars in each segment.
-![aa](https://user-images.githubusercontent.com/120084365/208685819-b4f0cc3a-5f3d-496f-975b-60965eb5fc14.jpg)
+
+App look:
+
+![image](https://user-images.githubusercontent.com/120084365/208686230-336e9c08-cdad-4e3d-b1f6-01c8c7ce5952.png)
+
 
 Created with CodeSandbox
