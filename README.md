@@ -16,6 +16,6 @@ It shows the top three cars in each segment.
 
 <h2>App look:</h2>
 
-![Screenshot (42)](https://user-images.githubusercontent.com/120084365/208686455-f5b38563-2b73-4ff9-86b5-4fab4952cba0.png)
+![Screenshot (46)](https://user-images.githubusercontent.com/120084365/208699549-891e2746-a5bc-4abb-b8a0-ae593dd22109.png)
 
 Created with CodeSandbox
